@@ -1,4 +1,4 @@
-a = "Hello"
-b = "World"
-message = a + " " + b
+a = 20
+b = 60
+message = a + b
 print(message)
