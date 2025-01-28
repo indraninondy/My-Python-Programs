@@ -1,4 +1,4 @@
 a = 20
 b = 60
-message = a + b
-print(message)
+total = a + b
+print("Total ="+ total)
